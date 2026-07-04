@@ -98,22 +98,6 @@ Movie-Ticket-Booking-System/
 - SQL Server
 - Entity Framework Core
 
-## Installation
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/chiakexin1/movie-ticket-booking-system.git
-```
-
-2. Restore NuGet packages
-
-3. Configure SQL Server connection string
-
-4. Run the ASP.NET Core Web API
-
-5. Start the UWP application
-
 ---
 
 # 📸 Screenshots
@@ -152,11 +136,6 @@ git clone https://github.com/chiakexin1/movie-ticket-booking-system.git
 
 ![Add Movie](screenshots/add-movie.png)
 
----
-
-## Edit Movie
-
-![Edit Movie](screenshots/edit-movie.png)
 
 ---
 
@@ -166,26 +145,39 @@ git clone https://github.com/chiakexin1/movie-ticket-booking-system.git
 
 ---
 
-# 📄 Documentation
+## Add Venue
 
-A complete project report containing the system design, literature review, UML diagrams, implementation details, evaluation, and testing screenshots is included in:
-
-**📄 Report.pdf**
+![Add venue](screenshots/add-venue.png)
 
 ---
 
-# 👨‍💻 My Contribution
+## Add Seat
 
-My primary responsibility in this project was the **Movie Management Module**, including:
+![Add Seat](screenshots/add-seat.png)
 
-- Display Movie List
-- Add New Movies
-- Edit Movie Information
-- Delete Movies
-- Customer Movie Listing
-- Integration with ASP.NET Core Web API
-- Database CRUD Operations
-- UI Development using UWP
+---
+
+## Add Showtimes
+
+![Add Showtimes](screenshots/add-showtimes.png)
+
+---
+
+## Add Item
+
+![Add Item](screenshots/add-item.png)
+
+---
+
+## Customer Food Order
+
+![Customer Food Order](screenshots/customer-food-order.png)
+
+---
+
+## Select Item
+
+![Select Item](screenshots/select-item.png)
 
 ---
 
@@ -209,8 +201,4 @@ Throughout this project, I gained practical experience in:
 
 This project was developed for educational purposes as part of the **Rapid Application Development (UCCB1223)** course at Universiti Tunku Abdul Rahman (UTAR).
 
----
 
-# 📜 License
-
-This project is intended for educational purposes only.
